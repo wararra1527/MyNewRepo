@@ -16,4 +16,5 @@ while left <= right:
         right = middle - 1
 
 if left > right: 
-    print('There is not {:3} in this list.'.format(x))
+    print('There is not {:2} in this list. hahahaha'.format(x))
+
